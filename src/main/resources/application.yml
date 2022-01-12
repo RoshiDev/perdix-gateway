@@ -7,7 +7,7 @@ spring:
     password: 840znodyP6rfxLjUd9cn
 
 application:
-  name: perdix-server
+  name: perdix-serverr
   secretKeys:
     ifmruser: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAou7LqbtFbp7+vZR4lvNW1ph6xVYN22SAlp7wDcO0eIWRM8uR0iCHZ7Gg0U/5rO/hgAYNZZhO+JT69fE714LrnEOckKV382KOZ0H+tc0/MODivRSl/4V4J1mJv9E079MsWyWALxiYvJNHXf3kKR9L6FVGZq6witwyhhGcBXNih6A/HiemFyOLmcwHGFNix85RGkxR7NkcRuV5qX2HRa5dgGMOwakKBcZT/Vvbakw5/J0oUttddVUM8Bs5U1RTW/sw2SEFQha1DCgbXCjyof13U3kIY+cxq9ABvjjiSd3psX6SfIplsNkxROzxRVFCJtFnqDQD3rdCB13/PBEDHh4nhwIDAQAB
 server:  
